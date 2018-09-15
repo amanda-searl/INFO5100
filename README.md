@@ -2,4 +2,4 @@
 
 **For INFO5100 assignment submission**
 
-**Assignment 1 updated Sept 14th 2018**
+*Latest updated: Assignment 1, Sept 14th 2018

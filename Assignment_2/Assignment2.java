@@ -159,7 +159,9 @@ public class Assignment2 {
      write your understanding here.
     */
      /*
-     The parameters are passed by value in Java. Java does manipulate objects by reference, and all object variables are references. However, Java doesn't pass method arguments by reference; it passes them by value. This means the references passed to the method are actually copies of the original references.
+     The parameters are passed by value in Java. Java does manipulate objects by reference, 
+     and all object variables are references. However, Java doesn't pass method arguments by reference; 
+     it passes them by value. This means the references passed to the method are actually copies of the original references.
     */
     public static void main(String[] args) {
         Employee a = new Employee("Jenny", 20, Gender.FEMALE, 2000);

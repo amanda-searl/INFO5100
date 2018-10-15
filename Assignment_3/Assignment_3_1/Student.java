@@ -1,4 +1,4 @@
-
+//socre 5/5 
 
 public class Student {
 	private String name;

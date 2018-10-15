@@ -1,3 +1,4 @@
+//Score 5/5
 public class PsychiatristObject {
 	public PsychiatristObject() {}
 	
